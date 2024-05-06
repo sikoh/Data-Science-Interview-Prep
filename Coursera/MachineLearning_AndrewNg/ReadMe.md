@@ -5,5 +5,5 @@ Andrew Ng
 
 
 Offered by
-Stanford University
+Stanford University and 
 DeepLearning.AI
