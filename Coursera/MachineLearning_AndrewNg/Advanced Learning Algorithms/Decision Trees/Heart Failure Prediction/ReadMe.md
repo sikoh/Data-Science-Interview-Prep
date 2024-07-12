@@ -1,5 +1,5 @@
 
-Lab work tasks:
+**Lab work tasks:**
 
 Work with a dataset related to cardiovascular disease
 
